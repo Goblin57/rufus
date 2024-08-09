@@ -1,4 +1,4 @@
-// Test with workflow
+// Test with workflow.
 /*
  * Rufus: The Reliable USB Formatting Utility
  * CPU features detection
