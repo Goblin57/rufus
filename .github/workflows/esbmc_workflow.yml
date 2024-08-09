@@ -4,7 +4,7 @@ on: push
 
 jobs:
     test-esbmc-action:
-        runs-on: ubuntu-latest
+        runs-on: windows-latest
         steps:
             - name: Run ESBMC action
               uses: esbmc/esbmc-action@v2
