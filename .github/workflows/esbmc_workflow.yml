@@ -10,4 +10,4 @@ jobs:
               uses: esbmc/esbmc-action@v2
               with:
                 create-artifact: y
-                esbmc-options: --incremental-bmc --include src/
+                esbmc-options: --incremental-bmc --include src/ --file-output out.txt
